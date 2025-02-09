@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ;
-- https://www.instagram.com/maresalp/
+- https://www.instagram.com/bytearchsoft/
 - https://www.instagram.com/batuhanolgacc/
 
 <!---
