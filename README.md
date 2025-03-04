@@ -16,5 +16,5 @@
 - 🐦 **Twitter**: [[batuhanolgacc]](https://x.com/batuhanolgacc)
 - 📩 **Email**: `batuhanolgacc@gmail.com`  
 - 💬 **Instagram** : [[bytearchsoft]  ](https://www.instagram.com/bytearchsoft/)
-- 💬 **Instagram** : [[batuhanolgacc]  ]https://www.instagram.com/batuhanolgacc/
+- 💬 **Instagram** : [[batuhanolgacc]  ](https://www.instagram.com/batuhanolgacc/)
 ⭐ **Support my projects by leaving a star!** 🚀
