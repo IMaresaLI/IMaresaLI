@@ -11,7 +11,7 @@
 🚀 **My Projects:**
 
 #### Published Projects:
-- 🖼️ [[**BarchPix**]](https://apps.microsoft.com/detail/9pn3587pjnvk?hl=en_EN&gl=EN) – An advanced image compression and viewer application.
+- 🖼️ [[**BarchPix**]](https://apps.microsoft.com/detail/9pn3587pjnvk?hl=en_EN&gl=EN) – Fast desktop tool for image conversion, batch renaming, and texture map creation.
 - 🤖 [[**Arbitrage Alert Bot**]](https://github.com/IMaresaLI/arbitrage-alert-bot) – Detects and alerts users to arbitrage opportunities in cryptocurrency markets.
 
 #### Projects I'm Working On:
