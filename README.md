@@ -11,7 +11,8 @@
 🚀 **My Projects:**
 
 #### Published Projects:
-- 🖼️ [[**BarchPix**]](https://apps.microsoft.com/detail/9pn3587pjnvk?hl=en_EN&gl=EN) :  An advanced image compression and viewer application.
+- 🖼️ [[**BarchPix**]](https://apps.microsoft.com/detail/9pn3587pjnvk?hl=en_EN&gl=EN) :  An advanced image compression and viewer application.
+- 🤖 [[**Arbitrage Alert Bot**]](https://github.com/IMaresaLI/arbitrage-alert-bot): A program that finds and alerts users to arbitrage opportunities in cryptocurrency markets.
 
 #### Projects I'm Working On:
 - 🔒 **File Encryption and Hiding Application:** This is a desktop application designed to help users securely store sensitive data. It uses advanced encryption algorithms to password-protect files and prevent unauthorized access. It also hides selected files within the system to keep them away from prying eyes.
